@@ -20,4 +20,3 @@ Run `/sap-learning-assist` and say what you want, for example "quiz me on emerge
 - `references/` holds the source notes (17 files, about 1.9 MB).
 - `progress.md` is created on first use and is gitignored, so everyone tracks their own scores.
 - Sample question files are from third party sites and are treated as unverified.
-# SAP-Learning-Assistant
